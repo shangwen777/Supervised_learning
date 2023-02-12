@@ -1,10 +1,10 @@
 Train:
   batch_size: 64
   learning_rate: 0.01
-  epochs: 5
+  epochs: 10
   debug: True
 
 Model:
   type: TwoLayerNet
   hidden_size: 32
-  n_input: 20
+  n_input: 784
