@@ -1,0 +1,9 @@
+name: ml_a1
+dependencies:
+ - numpy
+ - matplotlib
+ - scikit-learn
+ - pandas
+ - graphviz
+ - pytorch
+ - torchvision
